@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "539204323726",
+    "project_id": "youlead-f47c2",
+    "storage_bucket": "youlead-f47c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539204323726:android:a31cbd2aca83c5b71efcdf",
+        "android_client_info": {
+          "package_name": "com.flutterflow.youlead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539204323726-01bdhe65dg8d5m1n36484fju0045agkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.youlead",
+            "certificate_hash": "fa01d79364ddcabd6a22234e8df1c2b7bca924c0"
+          }
+        },
+        {
+          "client_id": "539204323726-b55ar8knqdq54o8qh9v43lmjk91ehnam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.youlead",
+            "certificate_hash": "4dfb7af5e139f0682171e6fb33e76c30ed3496df"
+          }
+        },
+        {
+          "client_id": "539204323726-khafdkeurdp8r8dcoe714ch99hki1b3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.youlead",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "539204323726-dnkh7s7dn4e82263l2umurrppf4ioebi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgABJvjPFjgjxiS5ZMWATG22W03ej1kwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539204323726-dnkh7s7dn4e82263l2umurrppf4ioebi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539204323726-go04c4lpopngpru3b2gmdbhor32vsem9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.youlead"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
